@@ -24,5 +24,5 @@ function clockHandAngles(seconds) {
     return clock_angle;
 
 }
-y=clockHandAngles(5000);
+y=clockHandAngles(8000);
 console.log(y);
